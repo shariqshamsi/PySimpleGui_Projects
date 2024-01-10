@@ -12,5 +12,5 @@ Welcome to PySimpleGui Projects! This repository showcases a variety of Python a
 6. **Calculator:** A PySimpleGUI-based calculator for basic arithmetic operations.
 7. **Graph Application:** Utilizes Matplotlib to create a simple graphing tool for visualizing data.
 8. **Music Player:**  PySimpleGUI-based music player with essential playback controls for a seamless audio experience.
-9. 
+ 
 
